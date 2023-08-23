@@ -1,4 +1,3 @@
-<img src="![Screenshot (33)](https://github.com/hossama7med8666/JR_Portfolio/assets/52844701/06fc5a83-532f-403d-9777-437b3da169cd)" alt="Profile Picture" align="left" width="100" height="100">
 # JR_Portfolio
 Welcome to my Portfolio for ML Projects
 
