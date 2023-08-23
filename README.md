@@ -2,7 +2,14 @@
 Welcome to my Portfolio for ML Projects
 # Project Name
 
-Brief description or tagline about your project.
+Here are some of the projects you can find in this repository:
+
+- [Electric Vehicle](/Electric%20Vehicle): Description of the project.
+- [Loan Classification](/Loan%20classification): Prediction of loan classifications.
+- [Super Store](/Super%20Store): Add a brief description.
+- [Bundesliga Player Market Value Prediction](/bundesliga%20player%20market%20value%20predectio): Description of the project.
+
+Feel free to explore each project's directory for more details and instructions on how to run them.
 
 ## Table of Contents
 - [Introduction](#introduction)
