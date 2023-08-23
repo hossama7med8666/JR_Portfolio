@@ -6,7 +6,7 @@ Welcome to my Portfolio for ML Projects
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Projects](#Projects)
+- [Project Name](#Project_Name)
 - [Features](#features)
 - [Connect](#Connect_and_Collaborate)
 
@@ -17,7 +17,7 @@ Welcome to my Portfolio for ML Projects
 Hello! I'm Hossam Mohamed, a passionate Data Scientist with a focus on Machine Learning, NLP, and Computer Vision. 
 With a deep love for AI and a knack for extracting insights from data, I'm on a journey to leverage the power of technology to uncover meaningful patterns and create impactful solutions.
 
-# Project Name
+## Project_Name
 
 Here are some of the projects you can find in this repository:
 
