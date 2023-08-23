@@ -3,22 +3,13 @@
 Welcome to my Portfolio for ML Projects
 
 
-
-# Project Name
-
-Here are some of the projects you can find in this repository:
-
-- [Electric Vehicle](/Electric%20Vehicle): Description of the project.
-- [Loan Classification](/Loan%20classification): Prediction of loan classifications.
-- [Super Store](/Super%20Store): Add a brief description.
-- [Bundesliga Player Market Value Prediction](/bundesliga%20player%20market%20value%20predectio): Description of the project.
-
-Feel free to explore each project's directory for more details and instructions on how to run them.
-
 ## Table of Contents
+
 - [Introduction](#introduction)
+- [Projects](#Projects)
 - [Features](#features)
 - [Connect](#Connect_and_Collaborate)
+
 
 
 ## Introduction
@@ -26,6 +17,16 @@ Feel free to explore each project's directory for more details and instructions 
 Hello! I'm Hossam Mohamed, a passionate Data Scientist with a focus on Machine Learning, NLP, and Computer Vision. 
 With a deep love for AI and a knack for extracting insights from data, I'm on a journey to leverage the power of technology to uncover meaningful patterns and create impactful solutions.
 
+# Project Name
+
+Here are some of the projects you can find in this repository:
+
+- [Super Store](/Super%20Store): Very good EDA and building amazing ML models.
+- [Electric Vehicle](/Electric%20Vehicle):EDA for electric cars.
+- [Loan Classification](/Loan%20classification): Prediction of loan classifications.
+- [Bundesliga Player Market Value Prediction](/bundesliga%20player%20market%20value%20predectio): Predict the price of the price.
+
+Feel free to explore each project's directory for more details and instructions on how to run them.
 
 ## Features
 
