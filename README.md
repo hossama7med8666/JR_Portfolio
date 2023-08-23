@@ -27,7 +27,7 @@ I welcome you to explore my work, contribute your ideas, and join hands in advan
 Whether you're an enthusiast, a fellow data scientist, or someone intrigued by the possibilities of AI, your insights and contributions are valued.
 
 🔗 Connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/hossam-mohamed-161b0b148/))
-
+https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/hossam-mohamed-161b0b148/)
 ## Installation
 
 To view and interact with the projects in this portfolio, follow these steps:
