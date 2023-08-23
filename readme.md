@@ -1,6 +1,9 @@
 
 # JR_Portfolio
 Welcome to my Portfolio for ML Projects
+
+<img src="C:\Users\JRHOSAM\Pictures\Screenshots\32123.png" alt="Profile Picture" align="left" width="100" height="100">
+
 # Project Name
 
 Here are some of the projects you can find in this repository:
