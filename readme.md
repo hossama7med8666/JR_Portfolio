@@ -1,8 +1,8 @@
-![Screenshot (33)](https://github.com/hossama7med8666/JR_Portfolio/assets/52844701/06fc5a83-532f-403d-9777-437b3da169cd)
+
 # JR_Portfolio
 Welcome to my Portfolio for ML Projects
 
-<img src="![Screenshot (33)](https://github.com/hossama7med8666/JR_Portfolio/assets/52844701/53c52174-21e7-416b-b725-6559a7c30a00)" alt="Profile Picture" align="left" width="100" height="100">
+<img src="![Screenshot (33)](https://github.com/hossama7med8666/JR_Portfolio/assets/52844701/06fc5a83-532f-403d-9777-437b3da169cd)" alt="Profile Picture" align="left" width="100" height="100">
 
 # Project Name
 
